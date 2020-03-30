@@ -1,3 +1,6 @@
+/*This is linked list full program covers traversing, Insertion and deletion from beginning, specified position and from the end.
+This program is created by Dr. Krishan Kumar Goyual (Associate Professor and Dean, Faculty of Computer Application, RBSMTC, Agra.)
+If you have any query/doubt and suggestions please email me on kkgoyal@gmail.com .*/
 #include"stdio.h"
 #include"malloc.h"
 #include"conio.h"
